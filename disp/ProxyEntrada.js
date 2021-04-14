@@ -1,7 +1,7 @@
 import {
     HEADERS_JSON
   } from "./utilIoT.js";
-  
+
   /** Clase para conectarse a la
    * base de datos. */
   export class ProxyEntrada {
