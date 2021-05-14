@@ -21,7 +21,7 @@ import {
   const colEntrada =
     firestore.collection("Entrada");
   const dispositivoId = prompt(
-    "Identificador de Dispositivo:",
+    "Toño dame el identificador de Dispositivo:",
     "iot1");
   
   if (dispositivoId) {
